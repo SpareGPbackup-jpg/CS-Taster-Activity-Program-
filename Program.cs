@@ -1,4 +1,6 @@
-﻿namespace FTest_2
+using System;
+
+namespace FTest_2
 {
     internal class Program
     {
@@ -93,4 +95,5 @@
 
         }
     }
+
 }
